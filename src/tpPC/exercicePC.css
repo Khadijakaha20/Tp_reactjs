@@ -1,0 +1,19 @@
+.carte{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 210px;
+    padding: 8px;
+    margin: 50px;
+}
+button{
+    color: bisque;
+    background-color: black;
+    padding: 10px;
+    border: 0px;
+    border-radius: 10px;
+    width: 200px;
+}
+.produits{
+    display: flex;
+    
+}
